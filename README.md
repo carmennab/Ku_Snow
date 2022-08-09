@@ -20,4 +20,5 @@ The notebooks used to pre-process and regrid these data can be found in /auxilia
 
 The notebooks used to produce the paper's main and supplementary figures can be found in /main_figs and /supp_figs respectively, and are named according to figure number. 
 
-For the analysis, the CS2-only freeboard and the auxiliary data are each loaded into a 4018-day numpy array, ranging from 01/01/2010-31/12/2020
+For the analysis, the freeboard and auxiliary data are each loaded into a 4018-day NETCDF, ranging from 01/01/2010-31/12/2020, with NaNs on days where there is no data
+
