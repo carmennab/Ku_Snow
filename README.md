@@ -1,10 +1,10 @@
 #### Code and data repository for:
 
-####  "Synoptic variability in satellite radar altimeter-derived sea ice thickness" - Nab et al. (2022), Geophysical Research Letters
+####  "Synoptic variability in Arctic satellite radar altimeter-derived sea ice freeboard" - Nab et al. (2022), Geophysical Research Letters
 
 ### Data
 
-The daily-resolution interpolated freeboard data can be found at: https://doi.org/10.5281/zenodo.6401727
+The daily-resolution interpolated freeboard data can be found at: https://doi.org/10.5281/zenodo.6401726
 
 The auxiliary data used can found at: 
 
