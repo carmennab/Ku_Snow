@@ -1,6 +1,6 @@
 #### Code and data repository for:
 
-####  "Synoptic variability in Arctic satellite radar altimeter-derived sea ice freeboard" - Nab et al. (2022), Geophysical Research Letters
+####  "Synoptic variability in satellite altimeter-derived radar freeboard of Arctic sea ice" - Nab et al. (2023), Geophysical Research Letters
 
 ### Data
 
