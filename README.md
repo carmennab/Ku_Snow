@@ -22,3 +22,4 @@ The notebooks used to produce the paper's main and supplementary figures can be 
 
 For the analysis, the freeboard and auxiliary data are each loaded into a 4018-day NETCDF, ranging from 01/01/2010-31/12/2020, with NaNs on days where there is no data
 
+[![DOI](https://zenodo.org/badge/520069263.svg)](https://zenodo.org/doi/10.5281/zenodo.7271744)
